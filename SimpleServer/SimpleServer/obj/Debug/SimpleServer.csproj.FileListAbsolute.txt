@@ -1,0 +1,6 @@
+c:\users\jingmin\documents\visual studio 2017\Projects\SimpleServer\SimpleServer\bin\Debug\SimpleServer.exe.config
+c:\users\jingmin\documents\visual studio 2017\Projects\SimpleServer\SimpleServer\bin\Debug\SimpleServer.exe
+c:\users\jingmin\documents\visual studio 2017\Projects\SimpleServer\SimpleServer\bin\Debug\SimpleServer.pdb
+c:\users\jingmin\documents\visual studio 2017\Projects\SimpleServer\SimpleServer\obj\Debug\SimpleServer.exe
+c:\users\jingmin\documents\visual studio 2017\Projects\SimpleServer\SimpleServer\obj\Debug\SimpleServer.pdb
+C:\Users\JingMin\Documents\Visual Studio 2017\Projects\SimpleServer\SimpleServer\obj\Debug\SimpleServer.csprojResolveAssemblyReference.cache

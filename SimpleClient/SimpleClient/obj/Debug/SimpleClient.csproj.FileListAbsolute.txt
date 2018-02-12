@@ -1,0 +1,5 @@
+c:\users\jingmin\documents\visual studio 2017\Projects\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe.config
+c:\users\jingmin\documents\visual studio 2017\Projects\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe
+c:\users\jingmin\documents\visual studio 2017\Projects\SimpleClient\SimpleClient\bin\Debug\SimpleClient.pdb
+c:\users\jingmin\documents\visual studio 2017\Projects\SimpleClient\SimpleClient\obj\Debug\SimpleClient.exe
+c:\users\jingmin\documents\visual studio 2017\Projects\SimpleClient\SimpleClient\obj\Debug\SimpleClient.pdb
